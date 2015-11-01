@@ -17,7 +17,7 @@
 </head>
 <body class="landing">
 
-		<!-- Page Wrapper hola t-->
+		<!-- Page Wrapper hola tkk-->
 			<div id="page-wrapper">
 <div>Pruebas</div>
 				<!-- Header -->
