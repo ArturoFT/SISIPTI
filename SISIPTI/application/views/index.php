@@ -19,7 +19,7 @@
 
 		<!-- Page Wrapper hola t-->
 			<div id="page-wrapper">
-
+<div>Pruebas</div>
 				<!-- Header -->
 					<header id="header" class="alt">
 						<h1><a href="index.html">Sisipti</a></h1>
