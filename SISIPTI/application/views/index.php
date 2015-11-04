@@ -16,7 +16,7 @@
 	<script src="<?php echo base_url()."/public/plantilla/js/main.js";?>"></script>
 </head>
 <body class="landing">
-
+PUTABIDA
 		<!-- Page Wrapper hola tkk-->
 			<div id="page-wrapper">
 				<!-- Header -->
