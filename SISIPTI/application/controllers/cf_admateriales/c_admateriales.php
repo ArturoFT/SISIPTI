@@ -55,7 +55,7 @@ class C_admateriales extends CI_Controller {
  			);
 
 		$this->m_admateriales->registrarMaterial($dataM);
- 		redirect("http://localhost/SISIPTI/index.php/cf_admateriales/c_admateriales/index"); 
+ 		redirect("<?php echo base_url().'index.php/cf_admateriales/c_admateriales/index';?>"); 
  	}
 
  	function editar($id=null,$idT){
